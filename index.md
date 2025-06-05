@@ -32,6 +32,6 @@ A Python-based tool that intelligently extracts job listings from Israeli startu
 
 ## 📫 Contact
 
-📧 noam@email.com  
+📧 noam.stopler@gmail.com  
 💼 [LinkedIn](www.linkedin.com/in/noam-stopler-90475823a)  
 🐙 [GitHub](https://github.com/noamst)
